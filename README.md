@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">wattup 🤙</h1>
 
 ###
 
@@ -26,7 +26,14 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  I'm Octavio Polari Jardim from Brazil<br>
+  <br>
+  - 🔭 I’m working as Data Advisor<br>
+  - 📚 I'm currently learning <br>
+  - ⚡ In my free time I like to watch movies, to play games, to spend time with my fiancé and to continue to improve my knowledge<br>
+  - 🎵 I'm always listening to music. To me, life without music is a life not worth living
+</p>
 
 ###
 
@@ -37,11 +44,17 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/ios/50/react-native--v1.png" height="40" alt="react-native logo"  />
+  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" height="40" alt="react-native logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-plain-wordmark.svg" height="40" alt="html logo"  />
+  <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain-wordmark.svg" height="40" alt="sql logo"  />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://icons8.com/icon/108784/javascript" height="40" alt=".js logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -49,10 +62,10 @@
 
 ###
 
-<h3 align="left">🗃️ Currently Working Repositories:</h3>
+<h3 align="left">🗃️    Currently Working Repositories:</h3>
 
-<div align="center">📱 [Acesso Mais Seguro SJM](https://github.com/octavio-polari/acesso-mais-seguro-sjm)</div><br>
-<div align="center">🌎 [Custom Minecraft Fabric Mod](https://github.com/octavio-polari/Fabric-Dimensions-Boss-1.21.x)</div>
+📱 [Acesso Mais Seguro SJM](https://github.com/octavio-polari/acesso-mais-seguro-sjm)<br>
+🌎 [Custom Minecraft Fabric Mod](https://github.com/octavio-polari/Fabric-Dimensions-Boss-1.21.x)
 
 ###
 
