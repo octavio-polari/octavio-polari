@@ -37,7 +37,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-native/react-native-wordmark.svg" height="40" alt="react-native logo"  />
+  <img src="https://img.icons8.com/ios/50/react-native--v1.png" height="40" alt="react-native logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-plain-wordmark.svg" height="40" alt="html logo"  />
   <img width="12" />
