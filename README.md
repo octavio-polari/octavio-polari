@@ -6,7 +6,9 @@
 ###
 
 <div align="center">
-  <a style="text-decoration: none" src="https://octavio-polari.github.io/My-Links/"><img src="https://img.shields.io/static/v1?message=My%20Links&logo=&label=&color=60A880&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="mu-links-site logo"  /></a>
+  <a style="text-decoration: none" src="https://octavio-polari.github.io/My-Links/">
+    <img src="https://img.shields.io/static/v1?message=My%20Links&logo=&label=&color=60A880&logoColor=white&labelColor=&style=" height="50" alt="mu-links-site logo"  />
+  </a>
 </div>
 
 ###
