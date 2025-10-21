@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="300" src="https://d3rshtj5w2m4qx.cloudfront.net/7st2v%2Fpreview%2F71993872%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1761052086&Signature=G0OJ4iJ2DPFvKz7GCc0UvnwaU~ttZ0UK1PVg01L5tTvUQOAVwToTSnN73fvdOFySyAT~3sV7SOSv28kOUlB3zfPIHPInu~4ADXfKYIk72~l6YC6RGUqfm06gTv5pl6JT~yNg2vbg68tmh2unXRMIUjC7PyBvei8qZJ849SoD9ItyaAOJKkCL9pL6GVSBPrC-i8Fxn0mgSpUETh95Dqq7bzay28VG07nvVk2cFKlsDmiY4kBj6wwKshAldWOwasxaFCEh4quAmQnTa2eaPOhHCroWnP6LxUvkVawz0US~TP5Au3iCZgTgl9F1Le5xjfQyGonbduRKWm36qi3Fz-XSQw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"  />
+  <img height="450" src="https://d3rshtj5w2m4qx.cloudfront.net/7st2v%2Fpreview%2F71993872%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1761052086&Signature=G0OJ4iJ2DPFvKz7GCc0UvnwaU~ttZ0UK1PVg01L5tTvUQOAVwToTSnN73fvdOFySyAT~3sV7SOSv28kOUlB3zfPIHPInu~4ADXfKYIk72~l6YC6RGUqfm06gTv5pl6JT~yNg2vbg68tmh2unXRMIUjC7PyBvei8qZJ849SoD9ItyaAOJKkCL9pL6GVSBPrC-i8Fxn0mgSpUETh95Dqq7bzay28VG07nvVk2cFKlsDmiY4kBj6wwKshAldWOwasxaFCEh4quAmQnTa2eaPOhHCroWnP6LxUvkVawz0US~TP5Au3iCZgTgl9F1Le5xjfQyGonbduRKWm36qi3Fz-XSQw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"  />
+  <h3 align="left">Made with Manim&copy;, a Python library</h3>
 </div>
 
 ###
@@ -27,10 +28,10 @@
 ###
 
 <p align="left">
-  I'm Octavio Polari Jardim from Brazil<br>
+  I'm Octavio Polari Jardim<br>
   <br>
-  - 🔭 I’m working as Data Advisor<br>
-  - 📚 I'm currently learning more advanced Software Dev. practices<br>
+  - 🔭 I’m currently working as Data Advisor for the Municipal Department of Health of São João de Meriti, RJ, Brazil<br>
+  - 📚 I'm currently learning more advanced Software Dev. practices, as I intend to change areas within programming<br>
   - ⚡ In my free time I like to watch movies, to play games, to spend time with my fiancé and to continue to improve my knowledge<br>
   - 🎵 I'm always listening to music. To me, life without music is a life not worth living
 </p>
@@ -64,8 +65,8 @@
 
 <h3 align="left">🗃️    Currently Working Repositories:</h3>
 
-<a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration=none">📱 Acesso Mais Seguro SJM🔗</a><br>
-<a align="left" href="https://github.com/octavio-polari/Fabric-Dimensions-Boss-1.21.x" target="_blank" style="text-decoration=none">🌎 Custom Minecraft Fabric Mod🔗</a>
+<a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none">📱 Acesso Mais Seguro SJM🔗</a><br>
+<a align="left" href="https://github.com/octavio-polari/Fabric-Dimensions-Boss-1.21.x" target="_blank" style="text-decoration: none">🌎 Custom Minecraft Fabric Mod🔗</a>
 
 ###
 
