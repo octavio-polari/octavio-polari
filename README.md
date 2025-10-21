@@ -1,6 +1,6 @@
 <div align="center">
   <img height="450" src="https://d3rshtj5w2m4qx.cloudfront.net/7st2v%2Fpreview%2F71993872%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1761052086&Signature=G0OJ4iJ2DPFvKz7GCc0UvnwaU~ttZ0UK1PVg01L5tTvUQOAVwToTSnN73fvdOFySyAT~3sV7SOSv28kOUlB3zfPIHPInu~4ADXfKYIk72~l6YC6RGUqfm06gTv5pl6JT~yNg2vbg68tmh2unXRMIUjC7PyBvei8qZJ849SoD9ItyaAOJKkCL9pL6GVSBPrC-i8Fxn0mgSpUETh95Dqq7bzay28VG07nvVk2cFKlsDmiY4kBj6wwKshAldWOwasxaFCEh4quAmQnTa2eaPOhHCroWnP6LxUvkVawz0US~TP5Au3iCZgTgl9F1Le5xjfQyGonbduRKWm36qi3Fz-XSQw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"  />
-  <h3 align="left">Made with Manim&copy;, a Python library</h3>
+  <h5 align="left">Made with Manim&copy;, a Python library</h5>
 </div>
 
 ###
