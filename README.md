@@ -5,9 +5,9 @@
 
 ###
 
-<h4 align="center">
-    <i>Check out all my links <a rel="noopener noreferrer" height="50" alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" target="_blank">clicking here</a></i>
-</h4>
+<div>
+    <h4 align="center"><i>Check out all my links <a alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" >clicking here</a></i></h4>
+</div>
 
 ###
 
