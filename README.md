@@ -3,23 +3,23 @@
   <h5 align="left"><i>Made with Manim&copy;, a Python library</i></h5>
 </div>
 
-###
+<h3></h3>
 
 <div>
     <h4 align="center"><i>Check out all my links <a alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" >clicking here🔗</a></i></h4>
 </div>
 
-###
+<h3></h3>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=octavio-polari.octavio.polari&"  />
 </div>
 
-###
+<h3></h3>
 
 <h1 align="center">wassup 🤙</h1>
 
-###
+<h3></h3>
 
 <div>
   <h3 align="left">👩‍💻  About Me</h3>
@@ -35,8 +35,7 @@
   </p>
 </div>
 
-###
-###
+<h3></h3>
 
 <div align="center">
   <h3 align="left">🛠 Language and tools</h3>
@@ -58,8 +57,7 @@
     <img width="12" />
 </div>
 
-###
-###
+<h3></h3>
 
 <div>
   <h3 align="left">🗃️    Currently Working Repositories:</h3>
@@ -70,8 +68,7 @@
   </h4>
 </div>
 
-###
-###
+<h3></h3>
 
 <div>
   <h3 align="left">🔥   My Stats :</h3>
@@ -82,4 +79,4 @@
   </div>
 </div>
 
-###
+<h3></h3>
