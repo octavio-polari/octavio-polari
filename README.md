@@ -24,7 +24,7 @@
 <div>
   <h3 align="left">👩‍💻  About Me</h3>
   
-  ###
+###
   
   <p align="left">
     I'm Octavio Polari Jardim<br>
@@ -40,7 +40,7 @@
 
 <div align="center">
   <h3 align="left">🛠 Language and tools</h3>
-  ###
+###
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
     <img width="12" />
     <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" height="40" alt="react-native logo"  />
