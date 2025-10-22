@@ -63,8 +63,8 @@
 
 <h3 align="left">🗃️    Currently Working Repositories:</h3>
 
-<div><a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none">📱 Acesso Mais Seguro SJM🔗</a></div><br>
-<div><a align="left" href="https://github.com/octavio-polari/Fabric-Dimensions-Boss-1.21.x" target="_blank" style="text-decoration: none">🌎 Custom Minecraft Fabric Mod🔗</a></div>
+<div><a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM🔗</i></a></div><br>
+<div><a align="left" href="https://github.com/octavio-polari/Fabric-Dimensions-Boss-1.21.x" target="_blank" style="text-decoration: none"><i>🌎 Custom Minecraft Fabric Mod🔗</i></a></div>
 
 ###
 
