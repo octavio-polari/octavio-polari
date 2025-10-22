@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-    <a src="https://img.shields.io/static/v1?message=My%20Links&logo=&label=&color=60A880&logoColor=white&labelColor=&style=" height="50" alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/">My Links</a>
+    <a src="https://img.shields.io/static/v1?message=My%20Links&logo=&label=&color=60A880&logoColor=white&labelColor=&style=" height="50" alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" target="_blank">My Links</a>
 </div>
 
 ###
