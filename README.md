@@ -6,7 +6,7 @@
 ###
 
 <div>
-    <h4 align="center"><i>Check out all my links <a alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" >clicking here</a></i></h4>
+    <h4 align="center"><i>Check out all my links <a alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" >clicking here🔗</a></i></h4>
 </div>
 
 ###
