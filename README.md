@@ -5,9 +5,9 @@
 
 ###
 
-<div align="left">
-    Click <a rel="noopener noreferrer" height="50" alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" target="_blank">here</a> to go to my site that has all my links
-</div>
+<i align="center">
+    Check out all my links <a rel="noopener noreferrer" height="50" alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" target="_blank">clicking here</a>
+</i>
 
 ###
 
