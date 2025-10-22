@@ -6,9 +6,7 @@
 ###
 
 <div align="center">
-  <a height="50" width="100" style="background-color: green" style="text-decoration: none" src="https://octavio-polari.github.io/My-Links/">
-    My Links
-  </a>
+    <img src="https://img.shields.io/static/v1?message=My%20Links&logo=&label=&color=60A880&logoColor=white&labelColor=&style=" height="50" alt="mu-links-site logo" href="https://octavio-polari.github.io/My-Links/" />
 </div>
 
 ###
