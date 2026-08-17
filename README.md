@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="ezgif.com-video-to-gif-converter.gif"/>
+  <img height=450 src="ezgif.com-video-to-gif-converter.gif"/>
   <h5 align="left"><i>Made with Manim&copy;, a Python library</i></h5>
 </div>
 
