@@ -39,7 +39,7 @@
 
 <div align="center">
   <h3 align="left">🛠 Language and tools</h3>
-    <img src="https://github.com/user-attachments/assets/43baccb9-a11c-4ad8-8f89-d6189f74ab7a" width="100" height="100" alt="java logo" />
+    <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" height="40" alt="java logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
     <img width="12" />
