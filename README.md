@@ -1,6 +1,6 @@
 <div align="center">
   <img height=450 src="https://drive.google.com/file/d/15uOPBpF58RqjZonjjsmfS_3JLOFzCRfn/view?usp=sharing"/>
-  <img height="450" src="https://drive.google.com/file/d/15AIKIMku4mzNOXs2ajYmRFbBwexXra9d/view?usp=sharing"/>
+  <img height=450 src="https://drive.google.com/file/d/15AIKIMku4mzNOXs2ajYmRFbBwexXra9d/view?usp=sharing"/>
   <h5 align="left"><i>Made with Manim&copy;, a Python library</i></h5>
 </div>
 
