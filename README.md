@@ -67,9 +67,9 @@
   <h3 align="left">🗃️    Currently Working Repositories:</h3>
 
   <h4>
-    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 Controle de Estoque🔗</i></a>
+    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 Controle de Estoque🔗</i></a><br>
     <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project🔗</i></a><br>
-    <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM🔗</i></a><br>
+    <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM🔗</i></a>
   </h4>
 </div>
 
@@ -80,7 +80,7 @@
 
 
   <div align="center">
-    <img src="![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=octavio-polari&theme=tokyonight)">
+    <a align="left" href="![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=octavio-polari&theme=tokyonight)" target="_blank" style="text-decoration: none"></a>
   </div>
 </div>
 
