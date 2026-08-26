@@ -67,8 +67,9 @@
   <h3 align="left">🗃️    Currently Working Repositories:</h3>
 
   <h4>
+    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 Controle de Estoque🔗</i></a>
+    <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project🔗</i></a><br>
     <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM🔗</i></a><br>
-    <a align="left" href="https://github.com/octavio-polari/Fabric-Dimensions-Boss-1.21.x" target="_blank" style="text-decoration: none"><i>🌎 Custom Minecraft Fabric Mod🔗</i></a>
   </h4>
 </div>
 
