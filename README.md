@@ -80,7 +80,7 @@
 
 
   <div align="center">
-    ![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=octavio-polari&theme=default)
+    <img src="https://github-streak-bijay-shre-stha.vercel.app/?username=octavio-polari&theme=tokyonight">
   </div>
 </div>
 
