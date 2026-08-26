@@ -80,7 +80,7 @@
 
 
   <div align="center">
-    <a align="left" href="![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=octavio-polari&theme=tokyonight)" target="_blank" style="text-decoration: none"></a>
+    <img src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=octavio-polari&theme=tokyonight" height="220" alt="streak graph"  />
   </div>
 </div>
 
