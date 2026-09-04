@@ -17,7 +17,7 @@
 
 <h3></h3>
 
-<h1 align="center">wassup 🤙</h1>
+<h1 align="center">Hello! 👋</h1>
 
 <h3></h3>
 
@@ -31,7 +31,7 @@
     - 🔭 I’m currently working as Data Advisor for the Municipal Department of Health of São João de Meriti, RJ, Brazil<br>
     - 📚 I'm currently learning more advanced Software Dev. practices, as I intend to change areas within programming<br>
     - ⚡ In my free time I like to watch movies, to play games, to spend time with my fiancé and to continue to improve my knowledge<br>
-    - 🎵 I'm always listening to music. To me, life without music is a life not worth living
+    - 🎵 I'm always listening to music. It sets the mood and gets me focused on my tasks
   </p>
 </div>
 
