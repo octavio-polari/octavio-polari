@@ -28,8 +28,8 @@
   <p align="left">
     I'm Octavio Polari Jardim<br>
     <br>
-    - 🔭 I’m currently working as Data Advisor for the Municipal Department of Health of São João de Meriti, RJ, Brazil<br>
-    - 📚 I'm currently learning more advanced Software Dev. practices, as I intend to change areas within programming<br>
+    - 🔭 I’m currently working as a Backend Developer and a Data Advisor for the Municipal Department of Health of São João de Meriti, RJ, Brazil<br>
+    - 📚 I'm currently learning more advanced Software Dev. practices, as I intend to enhance my abilities within programming<br>
     - ⚡ In my free time I like to watch movies, to play games, to spend time with my fiancé and to continue to improve my knowledge<br>
     - 🎵 I'm always listening to music. It sets the mood and gets me focused on my tasks
   </p>
@@ -45,15 +45,29 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
     <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bun/bun-original.svg" height="40" alt="bun logo" />
+    <img width="12" />
+</div>
+<div>
     <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" height="40" alt="react-native logo"  />
     <img width="12" />
     <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" height="40" alt="flutter logo"  />
     <img width="12" />
+</div>
+<div>
     <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="html logo"  />
     <img width="12" />
     <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="css logo"  />
     <img width="12" />
     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt=".js logo"  />
+    <img width="12" />
+</div>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgre logo"  />
     <img width="12" />
     <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="sql logo"  />
     <img width="12" />
