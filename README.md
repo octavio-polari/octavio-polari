@@ -52,27 +52,27 @@
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bun/bun-original.svg" height="40" alt="bun logo" />
     <img width="12" />
 </div>
-<div>
-    <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" height="40" alt="react-native logo"  />
-    <img width="12" />
-    <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" height="40" alt="flutter logo"  />
-    <img width="12" />
+<div align="center">
+  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" height="40" alt="react-native logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" height="40" alt="flutter logo"  />
+  <img width="12" />
 </div>
+<div align="center">
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt=".js logo"  />
+  <img width="12" />
+<div align="center">
 <div>
-    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="html logo"  />
-    <img width="12" />
-    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="css logo"  />
-    <img width="12" />
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt=".js logo"  />
-    <img width="12" />
-</div>
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgre logo"  />
-    <img width="12" />
-    <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="sql logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-    <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgre logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
 </div>
 
 <h3></h3>
