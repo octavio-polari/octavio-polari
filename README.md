@@ -1,5 +1,5 @@
 <div align="center">
-  <img height=450 src="ezgif.com-video-to-gif-converter.gif"/>
+  <img height=450 src="ezgif.com-video-to-gif-converter.gif" alt="manim animation"/>
   <h5 align="left"><i>Made with Manim&copy;, a Python library</i></h5>
 </div>
 
@@ -11,10 +11,6 @@
 
 <h3></h3>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=octavio-polari.octavio.polari&"  />
-</div>
-
 <h3></h3>
 
 <h1 align="center">Hello! 👋</h1>
@@ -22,7 +18,7 @@
 <h3></h3>
 
 <div>
-  <h3 align="left">👩‍💻  About Me</h3>
+  <h3 align="left">👨‍💻  About Me</h3>
   
   
   <p align="left">
@@ -39,18 +35,16 @@
 
 <div align="center">
   <h3 align="left">🛠 Language and tools</h3>
-    <img src="https://github.com/user-attachments/assets/9b1f1c7e-db6f-4704-bf83-5f070c95a575" height=40 alt="java logo" />
-    <img width="12" />
-    <img src="https://github.com/user-attachments/assets/374a3b3f-b02e-406e-9d0d-4432def5fe24" height=40 alt="angular logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bun/bun-original.svg" height="40" alt="bun logo" />
-    <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bun/bun-original.svg" height="40" alt="bun logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/9b1f1c7e-db6f-4704-bf83-5f070c95a575" height=40 alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
+  <img width="12" />
 </div>
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" height="40" alt="react-native logo"  />
@@ -64,6 +58,8 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt=".js logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/374a3b3f-b02e-406e-9d0d-4432def5fe24" height=40 alt="angular logo" />
   <img width="12" />
 <div align="center">
 <div>
@@ -95,6 +91,10 @@
 
   <div align="center">
     <img src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=octavio-polari&theme=tokyonight" height="220" alt="streak graph"  />
+  </div>
+  
+  <div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=octavio-polari.octavio.polari&"  />
   </div>
 </div>
 
