@@ -87,7 +87,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
 
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" height="40" style="vertical-align: middle;" aria-label="github logo">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" height="40" style="vertical-align: middle;">
+      <title>GitHub Logo</title>
+      <desc>Ícone do GitHub com fundo redondo branco</desc>
       <g fill="#ffffff" transform="translate(2.99 4.25) scale(0.260762 0.263796)">
           <circle cx="63.75" cy="65.1" r="55.35" fill="white" />
       </g>
