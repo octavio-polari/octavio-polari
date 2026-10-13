@@ -86,8 +86,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 30%);" height="40" alt="github logo"  />
-  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" style="background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 30%);" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
 </div>
