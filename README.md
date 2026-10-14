@@ -91,6 +91,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="35" alt="github logo" />
   </kbd>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="filter: invert(1);">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" alt="github logo" />
+  </picture>
+
+
 
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
