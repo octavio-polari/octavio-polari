@@ -80,12 +80,14 @@
 </div><br>
 <div align="left">
   <h4 align="left">🔧 Tools and Tecnologies</h4>
-  <img src="https://zonalogo.com/assets/render-logo-png-svg.webp?asset=3682&w=240" height="40" alt="git logo"  />
+  <img src="https://zonalogo.com/assets/render-logo-png-svg.webp?asset=3682&w=240" height="40" alt="render logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/sf-regular-filled/96/ffffff/github.png" height="40" alt="github logo"  />
-  <img width="12" />
+  <kbd>
+    <img src="https://img.icons8.com/sf-regular-filled/96/ffffff/github.png" height="40" alt="github logo"  />
+    <img width="12" />
+  </kbd>
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
 </div>
