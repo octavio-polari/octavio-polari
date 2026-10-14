@@ -33,7 +33,7 @@
 
 <h3></h3>
 
-<div align="center">
+<div align="left">
   <h3 align="left">🛠 Language and tools</h3>
   <h4 align="left">⚙️ Backend</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" height="40" alt="bun logo" />
@@ -49,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
 </div>
-<div align="center">
+<div align="left">
   <h4 align="left">💻 Frontend</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
@@ -62,14 +62,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height=40 alt="angular logo" />
   <img width="12" />
 </div>
-<div align="center">
+<div align="left">
   <h4 align="left">📱 Mobile</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg" height="40" alt="react-native logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
 </div>
-<div align="center">
+<div align="left">
   <h4 align="left">🛢 Database</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgre logo"  />
   <img width="12" />
@@ -80,7 +80,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
   <img width="12" />
 </div>
-<div align="center">
+<div align="left">
   <h4 align="left">🔧 Tools and Tecnologies</h4>
   <img src="https://zonalogo.com/assets/render-logo-png-svg.webp?asset=3682&w=240" height="40" alt="git logo"  />
   <img width="12" />
@@ -99,9 +99,18 @@
 
   <h4>
     <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 Controle de Estoque</i></a><br>
-    <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project</i></a><br>
-    <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM</i></a>
   </h4>
+    <p>A backend-driven inventory system, containerized with Docker, designed to centralize item registration, stock movements and operational tracking while keeping workflows and data consistency at the center of the application</p><br>
+  
+  <h4>
+    <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project</i></a><br>
+  </h4>
+    <p>A mobile workout tracking application designed to organize training routines, exercises, sets and repetitions, with persistent data storage and interactive progress tracking.</p><br>
+  
+  <h4>
+    <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM</i></a><br>
+  </h4>
+    <p>A server shared by 3 applications for health centers to use to facilitate communication with municipal management regarding internet, electricity, systems, and the dangerous situation in the area. </p><br>
 </div>
 
 <h3></h3>
