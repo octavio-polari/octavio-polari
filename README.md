@@ -88,8 +88,9 @@
   <img width="12" />
   
   <kbd>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" alt="github logo" />
+    <img src="https://githubusercontent.com" height="35" alt="github logo" />
   </kbd>
+
 
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
