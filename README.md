@@ -86,7 +86,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/fmFqQmR0UdsR/github" height="40" alt="git logo"  />
+  <img src="https://img.icons8.com/sf-regular-filled/40/github.png" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
