@@ -90,9 +90,9 @@
   <kbd>
     <picture>
       <!-- Se o usuário usar Tema Escuro: o GitHub exibe a imagem branca invertida -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
       <!-- Se o usuário usar Tema Claro: o GitHub exibe a imagem preta padrão -->
-      <img src="https://githubusercontent.com" height="35" alt="github logo" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="35" alt="github logo" />
     </picture>
   </kbd>
 
