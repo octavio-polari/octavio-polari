@@ -1,5 +1,5 @@
 <div align="center">
-  <img height=450 src="ezgif.com-video-to-gif-converter.gif" alt="manim animation"/>
+  <img height=300 src="ezgif.com-video-to-gif-converter.gif" alt="manim animation"/>
   <h5 align="left"><i>Made with Manim&copy;, a Python library</i></h5>
 </div>
 
@@ -24,7 +24,7 @@
     I'm Octavio Polari Jardim<br>
     <br>
     - 🔭 I’m currently working as a Backend Developer and a Data Advisor for the Municipal Department of Health of São João de Meriti, RJ, Brazil<br>
-    - 📚 I'm currently learning more advanced Software Dev. practices, such as NoSQL and messaging, as I intend to enhance my abilities within programming<br>
+    - 📚 I'm currently deepening my knowledge of backend architecture, databases, and messaging systems while building practical applications.<br>
     - ⚡ In my free time I like to watch movies, to play games, to spend time with my fiancé and to continue to improve my knowledge<br>
     - 🎵 I'm always listening to music. It sets the mood and gets me focused on my tasks
   </p>
@@ -81,7 +81,7 @@
   <img width="12" />
 </div><br>
 <div align="left">
-  <h4 align="left">🔧 Tools and Tecnologies</h4>
+  <h4 align="left">🔧 Tools and Technologies</h4>
   <img src="https://zonalogo.com/assets/render-logo-png-svg.webp?asset=3682&w=240" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -111,7 +111,7 @@
   <h4>
     <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM</i></a><br>
   </h4>
-    <p>A server shared by 3 applications for health centers to use to facilitate communication with municipal management regarding internet, electricity, systems, and the dangerous situation in the area. </p><br>
+    <p>A shared backend supporting three mobile applications used by healthcare facilities to report operational issues, including internet connectivity, power outages, and system availability, to municipal management.</p><br>
 </div>
 
 <br>
