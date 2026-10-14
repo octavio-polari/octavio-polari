@@ -10,7 +10,6 @@
 </div>
 
 <br>
-<br>
 
 <h1 align="center">Hello! 👋</h1>
 
@@ -30,7 +29,6 @@
   </p>
 </div>
 
-<br>
 <br>
 
 <div align="left">
@@ -114,7 +112,6 @@
     <p>A server shared by 3 applications for health centers to use to facilitate communication with municipal management regarding internet, electricity, systems, and the dangerous situation in the area. </p><br>
 </div>
 
-<br>
 <br>
 
 <div>
