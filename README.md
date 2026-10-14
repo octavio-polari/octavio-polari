@@ -9,9 +9,8 @@
     <h4 align="center"><i>Check out all my links <a alt="my-links-site logo" href="https://octavio-polari.github.io/My-Links/" >clicking here🔗</a></i></h4>
 </div>
 
-<h3></h3>
-
-<h3></h3>
+<br>
+<br>
 
 <h1 align="center">Hello! 👋</h1>
 
@@ -31,8 +30,8 @@
   </p>
 </div>
 
-<h3></h3>
-<h3></h3>
+<br>
+<br>
 
 <div align="left">
   <h3 align="left">🛠 Language and tools</h3>
@@ -93,8 +92,8 @@
   <img width="12" />
 </div>
 
-<h3></h3>
-<h3></h3>
+<br>
+<br>
 
 <div>
   <h3 align="left">🗃️    Currently Working Repositories:</h3>
@@ -115,8 +114,8 @@
     <p>A server shared by 3 applications for health centers to use to facilitate communication with municipal management regarding internet, electricity, systems, and the dangerous situation in the area. </p><br>
 </div>
 
-<h3></h3>
-<h3></h3>
+<br>
+<br>
 
 <div>
   <h3 align="left">🔥   My Stats :</h3>
