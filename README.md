@@ -97,8 +97,6 @@
   </kbd>
 
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" height="40" style="vertical-align: middle;">
-      <title>GitHub Logo</title>
-      <desc>Ícone do GitHub com fundo redondo branco</desc>
       <g fill="#ffffffff" transform="translate(2.7 3.8) scale(0.263455)">
           <path
           fill-rule="evenodd"
