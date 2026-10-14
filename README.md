@@ -96,7 +96,7 @@
     </picture>
   </kbd>
 
-  <img src="https://shields.io" height="40" alt="github logo" align="center" />
+  <img src="https://img.shields.io/badge/white?logo=github" height="40" alt="github logo" align="center" />
 
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
