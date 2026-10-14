@@ -86,7 +86,7 @@
   <img width="12" />
   <kbd>
     <img src="https://img.icons8.com/sf-regular-filled/96/ffffff/github.png" height="40" alt="github logo"  />
-    <img width="12" />
+    <!-- <img width="12" /> -->
   </kbd>
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
