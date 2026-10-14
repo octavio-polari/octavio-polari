@@ -127,7 +127,7 @@
   
   <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=octavio-polari.octavio.polari&"  />
-    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=octavio-polari.visitor-badge&left_text=visitors&logo=github&radius=10&height=25)
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=octavio-polari.visitor-badge&left_text=visitors&logo=github&radius=10&height=25" />
   </div>
 </div>
 
