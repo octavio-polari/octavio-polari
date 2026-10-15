@@ -95,6 +95,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
     <img src="https://cdn.simpleicons.org/github/black" height="40" alt="github logo">
   </picture>
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
 </div>
