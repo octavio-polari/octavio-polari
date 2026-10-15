@@ -42,7 +42,9 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt=".js logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" alt=".ts logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
@@ -52,8 +54,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt=".js logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -82,12 +82,12 @@
   <h4 align="left">🔧 Tools and Tecnologies</h4>
   <img src="https://zonalogo.com/assets/render-logo-png-svg.webp?asset=3682&w=240" height="40" alt="render logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <kbd>
-    <img src="https://img.icons8.com/sf-regular-filled/96/ffffff/github.png" height="40" alt="github logo"  />
-    <!-- <img width="12" /> -->
-  </kbd>
+  <img src="https://img.icons8.com/sf-regular-filled/96/ffffff/github.png" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
 </div>
@@ -99,18 +99,27 @@
   <h3 align="left">🗃️    Currently Working Repositories:</h3>
 
   <h4>
-    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 Controle de Estoque</i></a><br>
+    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 Controle de Estoque</i></a>
+    <br>
   </h4>
+    <h6>Bun · Express · SQLite · APIs Rest · Bun Test</h6>
+    <br>
     <p>A backend-driven inventory system, containerized with Docker, designed to centralize item registration, stock movements and operational tracking while keeping workflows and data consistency at the center of the application</p><br>
   
   <h4>
-    <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project</i></a><br>
+    <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project</i></a>
+    <br>
   </h4>
+    <h6>React Native · AsyncStorage · TypeScript</h6>
+    <br>
     <p>A mobile workout tracking application designed to organize training routines, exercises, sets and repetitions, with persistent data storage and interactive progress tracking.</p><br>
   
   <h4>
-    <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM</i></a><br>
+    <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM</i></a>
+    <br>
   </h4>
+    <h6>Node.js · Express · Firebase · APIs Rest</h6>
+    <br>
     <p>A server shared by 3 applications for health centers to use to facilitate communication with municipal management regarding internet, electricity, systems, and the dangerous situation in the area. </p><br>
 </div>
 
