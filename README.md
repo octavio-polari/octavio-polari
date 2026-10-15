@@ -109,14 +109,14 @@
     <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project</i></a>
     <br>
   </h4>
-    <h7>React Native · AsyncStorage · TypeScript</h7>
+    <h6>React Native · AsyncStorage · TypeScript</h6>
     <p>A mobile workout tracking application designed to organize training routines, exercises, sets and repetitions, with persistent data storage and interactive progress tracking.</p><br>
   
   <h4>
     <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM</i></a>
     <br>
   </h4>
-    <h8>Node.js · Express · Firebase · APIs Rest</h8>
+    <h6>Node.js · Express · Firebase · APIs Rest</h6>
     <p>Backend shared by three apps that let health centers report infrastructure and safety issues to municipal management.</p><br>
 </div>
 
