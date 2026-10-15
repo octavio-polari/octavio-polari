@@ -38,6 +38,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
+  <img src="https://img.icons8.com/office/96/ffffff/express-js.png" height="40" alt="express logo" />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 alt="java logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
