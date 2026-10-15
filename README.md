@@ -77,7 +77,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="sql logo"  />
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=888888" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -85,13 +85,10 @@
 <div align="left">
   <h4 align="left">🔧 Tools and Technologies</h4>
   <img src="https://zonalogo.com/assets/render-logo-png-svg.webp?asset=3682&w=240" height="40" alt="render logo"  />
-  <img src="cdn.simpleicons.org/render/white" height="40" alt="render logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/sf-regular-filled/96/ffffff/github.png" height="40" alt="github logo"  />
   <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
