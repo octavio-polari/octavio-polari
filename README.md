@@ -103,24 +103,21 @@
     <br>
   </h4>
     <h6>Bun · Express · SQLite · APIs Rest · Bun Test</h6>
-    <br>
     <p>A backend-driven inventory system, containerized with Docker, designed to centralize item registration, stock movements and operational tracking while keeping workflows and data consistency at the center of the application</p><br>
   
   <h4>
     <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project</i></a>
     <br>
   </h4>
-    <h6>React Native · AsyncStorage · TypeScript</h6>
-    <br>
+    <h7>React Native · AsyncStorage · TypeScript</h7>
     <p>A mobile workout tracking application designed to organize training routines, exercises, sets and repetitions, with persistent data storage and interactive progress tracking.</p><br>
   
   <h4>
     <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM</i></a>
     <br>
   </h4>
-    <h6>Node.js · Express · Firebase · APIs Rest</h6>
-    <br>
-    <p>A server shared by 3 applications for health centers to use to facilitate communication with municipal management regarding internet, electricity, systems, and the dangerous situation in the area. </p><br>
+    <h8>Node.js · Express · Firebase · APIs Rest</h8>
+    <p>Backend shared by three apps that let health centers report infrastructure and safety issues to municipal management.</p><br>
 </div>
 
 <br>
