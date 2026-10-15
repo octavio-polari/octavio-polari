@@ -99,24 +99,24 @@
   <h3 align="left">🗃️    Currently Working Repositories:</h3>
 
   <h4>
-    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 Controle de Estoque</i></a>
+    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 EasyStock</i></a>
     <br>
   </h4>
-    <h6>Bun · Express · SQLite · APIs Rest · Bun Test</h6>
+    <h6>Bun · Express · SQLite · JWT · Bun Test · REST APIs · Docker</h6>
     <p>A backend-driven inventory system, containerized with Docker, designed to centralize item registration, stock movements and operational tracking while keeping workflows and data consistency at the center of the application</p><br>
   
   <h4>
     <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project</i></a>
     <br>
   </h4>
-    <h6>React Native · AsyncStorage · TypeScript</h6>
+    <h6>React Native · TypeScript · AsyncStorage · React Navigation · RES APIs</h6>
     <p>A mobile workout tracking application designed to organize training routines, exercises, sets and repetitions, with persistent data storage and interactive progress tracking.</p><br>
   
   <h4>
     <a align="left" href="https://github.com/octavio-polari/acesso-mais-seguro-sjm" target="_blank" style="text-decoration: none"><i>📱 Acesso Mais Seguro SJM</i></a>
     <br>
   </h4>
-    <h6>Node.js · Express · Firebase · APIs Rest</h6>
+    <h6>Node.js · Express · Firebase · REST APIs · React Native (mobile apps)</h6>
     <p>Backend shared by three apps that let health centers report infrastructure and safety issues to municipal management.</p><br>
 </div>
 
