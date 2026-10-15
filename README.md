@@ -40,17 +40,17 @@
   <img width="12" />
   <img src="https://img.icons8.com/office/96/ffffff/express-js.png" height="40" alt="express logo" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/de7c897b-e941-465f-8e2e-c2abd2a60c4f" height="40" alt="google apps script logo"/>
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 alt="java logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt=".js logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" alt=".ts logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 alt="java logo" />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/de7c897b-e941-465f-8e2e-c2abd2a60c4f" height="40" alt="google apps script logo"/>
   <img width="12" />
 </div><br>
 <div align="left">
@@ -83,8 +83,9 @@
   <img width="12" />
 </div><br>
 <div align="left">
-  <h4 align="left">🔧 Tools and Tecnologies</h4>
+  <h4 align="left">🔧 Tools and Technologies</h4>
   <img src="https://zonalogo.com/assets/render-logo-png-svg.webp?asset=3682&w=240" height="40" alt="render logo"  />
+  <img src="cdn.simpleicons.org/render/white" height="40" alt="render logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
@@ -92,6 +93,11 @@
   <img width="12" />
   <img src="https://img.icons8.com/sf-regular-filled/96/ffffff/github.png" height="40" alt="github logo"  />
   <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+    <img src="https://cdn.simpleicons.org/github/black" height="40" alt="github logo">
+  </picture>
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
 </div>
@@ -103,7 +109,7 @@
   <h3 align="left">🗃️    Currently Working Repositories:</h3>
 
   <h4>
-    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 EasyStock</i></a>
+    <a align="left" href="https://github.com/octavio-polari/controle-de-estoque" target="_blank" style="text-decoration: none"><i>📦 EasyStock (Controle de Estoque)</i></a>
     <br>
   </h4>
     <h6>Bun · Express · SQLite · JWT · Bun Test · REST APIs · Docker</h6>
@@ -113,7 +119,7 @@
     <a align="left" href="https://github.com/octavio-polari/summer-project" target="_blank" style="text-decoration: none"><i>🏋️‍♂️ Summer Project</i></a>
     <br>
   </h4>
-    <h6>React Native · TypeScript · AsyncStorage · React Navigation · RES APIs</h6>
+    <h6>React Native · TypeScript · AsyncStorage · React Navigation · REST APIs</h6>
     <p>A mobile workout tracking application designed to organize training routines, exercises, sets and repetitions, with persistent data storage and interactive progress tracking.</p><br>
   
   <h4>
